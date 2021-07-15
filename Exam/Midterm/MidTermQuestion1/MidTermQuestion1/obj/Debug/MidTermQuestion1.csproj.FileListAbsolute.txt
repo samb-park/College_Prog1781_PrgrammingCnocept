@@ -1,0 +1,6 @@
+\\vmware-host\Shared Folders\OneDrive - Conestoga College\Conestoga\CPA\Programming Concepts\code\PROG1781_ProgrammingConcept\inClass\midterm\MidTermQuestion1\MidTermQuestion1\bin\Debug\MidTermQuestion1.exe.config
+\\vmware-host\Shared Folders\OneDrive - Conestoga College\Conestoga\CPA\Programming Concepts\code\PROG1781_ProgrammingConcept\inClass\midterm\MidTermQuestion1\MidTermQuestion1\bin\Debug\MidTermQuestion1.exe
+\\vmware-host\Shared Folders\OneDrive - Conestoga College\Conestoga\CPA\Programming Concepts\code\PROG1781_ProgrammingConcept\inClass\midterm\MidTermQuestion1\MidTermQuestion1\bin\Debug\MidTermQuestion1.pdb
+\\vmware-host\Shared Folders\OneDrive - Conestoga College\Conestoga\CPA\Programming Concepts\code\PROG1781_ProgrammingConcept\inClass\midterm\MidTermQuestion1\MidTermQuestion1\obj\Debug\MidTermQuestion1.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\OneDrive - Conestoga College\Conestoga\CPA\Programming Concepts\code\PROG1781_ProgrammingConcept\inClass\midterm\MidTermQuestion1\MidTermQuestion1\obj\Debug\MidTermQuestion1.exe
+\\vmware-host\Shared Folders\OneDrive - Conestoga College\Conestoga\CPA\Programming Concepts\code\PROG1781_ProgrammingConcept\inClass\midterm\MidTermQuestion1\MidTermQuestion1\obj\Debug\MidTermQuestion1.pdb
