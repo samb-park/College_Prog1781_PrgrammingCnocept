@@ -1,0 +1,35 @@
+C:\Users\gooro\OneDrive\바탕 화면\A4SPADJR\A4SPADJR\obj\Debug\A4SPADJR.csprojAssemblyReference.cache
+C:\Users\gooro\OneDrive\바탕 화면\A4SPADJR\A4SPADJR\obj\Debug\A4SPADJR.csproj.CoreCompileInputs.cache
+C:\Users\gooro\OneDrive\바탕 화면\A4SPADJR\A4SPADJR\bin\Debug\A4SPADJR.exe.config
+C:\Users\gooro\OneDrive\바탕 화면\A4SPADJR\A4SPADJR\bin\Debug\A4SPADJR.exe
+C:\Users\gooro\OneDrive\바탕 화면\A4SPADJR\A4SPADJR\bin\Debug\A4SPADJR.pdb
+C:\Users\gooro\OneDrive\바탕 화면\A4SPADJR\A4SPADJR\obj\Debug\A4SPADJR.exe
+C:\Users\gooro\OneDrive\바탕 화면\A4SPADJR\A4SPADJR\obj\Debug\A4SPADJR.pdb
+C:\Users\gooro\Desktop\Assignement\A4SPADJR\A4SPADJR\bin\Debug\A4SPADJR.exe.config
+C:\Users\gooro\Desktop\Assignement\A4SPADJR\A4SPADJR\bin\Debug\A4SPADJR.exe
+C:\Users\gooro\Desktop\Assignement\A4SPADJR\A4SPADJR\bin\Debug\A4SPADJR.pdb
+C:\Users\gooro\Desktop\Assignement\A4SPADJR\A4SPADJR\obj\Debug\A4SPADJR.csprojAssemblyReference.cache
+C:\Users\gooro\Desktop\Assignement\A4SPADJR\A4SPADJR\obj\Debug\A4SPADJR.csproj.CoreCompileInputs.cache
+C:\Users\gooro\Desktop\Assignement\A4SPADJR\A4SPADJR\obj\Debug\A4SPADJR.exe
+C:\Users\gooro\Desktop\Assignement\A4SPADJR\A4SPADJR\obj\Debug\A4SPADJR.pdb
+C:\Users\gooro\Desktop\code\assignments\A4SPADJR\A4SPADJR\bin\Debug\A4SPADJR.exe.config
+C:\Users\gooro\Desktop\code\assignments\A4SPADJR\A4SPADJR\bin\Debug\A4SPADJR.exe
+C:\Users\gooro\Desktop\code\assignments\A4SPADJR\A4SPADJR\bin\Debug\A4SPADJR.pdb
+C:\Users\gooro\Desktop\code\assignments\A4SPADJR\A4SPADJR\obj\Debug\A4SPADJR.csprojAssemblyReference.cache
+C:\Users\gooro\Desktop\code\assignments\A4SPADJR\A4SPADJR\obj\Debug\A4SPADJR.csproj.CoreCompileInputs.cache
+C:\Users\gooro\Desktop\code\assignments\A4SPADJR\A4SPADJR\obj\Debug\A4SPADJR.exe
+C:\Users\gooro\Desktop\code\assignments\A4SPADJR\A4SPADJR\obj\Debug\A4SPADJR.pdb
+C:\Users\gooro\Desktop\A4SPADJR\A4SPADJR\A4SPADJR\bin\Debug\A4SPADJR.exe.config
+C:\Users\gooro\Desktop\A4SPADJR\A4SPADJR\A4SPADJR\bin\Debug\A4SPADJR.exe
+C:\Users\gooro\Desktop\A4SPADJR\A4SPADJR\A4SPADJR\bin\Debug\A4SPADJR.pdb
+C:\Users\gooro\Desktop\A4SPADJR\A4SPADJR\A4SPADJR\obj\Debug\A4SPADJR.csprojAssemblyReference.cache
+C:\Users\gooro\Desktop\A4SPADJR\A4SPADJR\A4SPADJR\obj\Debug\A4SPADJR.csproj.CoreCompileInputs.cache
+C:\Users\gooro\Desktop\A4SPADJR\A4SPADJR\A4SPADJR\obj\Debug\A4SPADJR.exe
+C:\Users\gooro\Desktop\A4SPADJR\A4SPADJR\A4SPADJR\obj\Debug\A4SPADJR.pdb
+C:\Users\gooro\Desktop\code\assignments\A4SPADJR\A4SPADJR\A4SPADJR\bin\Debug\A4SPADJR.exe.config
+C:\Users\gooro\Desktop\code\assignments\A4SPADJR\A4SPADJR\A4SPADJR\bin\Debug\A4SPADJR.exe
+C:\Users\gooro\Desktop\code\assignments\A4SPADJR\A4SPADJR\A4SPADJR\bin\Debug\A4SPADJR.pdb
+C:\Users\gooro\Desktop\code\assignments\A4SPADJR\A4SPADJR\A4SPADJR\obj\Debug\A4SPADJR.csprojAssemblyReference.cache
+C:\Users\gooro\Desktop\code\assignments\A4SPADJR\A4SPADJR\A4SPADJR\obj\Debug\A4SPADJR.csproj.CoreCompileInputs.cache
+C:\Users\gooro\Desktop\code\assignments\A4SPADJR\A4SPADJR\A4SPADJR\obj\Debug\A4SPADJR.exe
+C:\Users\gooro\Desktop\code\assignments\A4SPADJR\A4SPADJR\A4SPADJR\obj\Debug\A4SPADJR.pdb
