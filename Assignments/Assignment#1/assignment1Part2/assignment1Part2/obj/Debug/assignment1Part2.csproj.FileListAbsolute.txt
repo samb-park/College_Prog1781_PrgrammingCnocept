@@ -1,0 +1,14 @@
+G:/OneDrive - Conestoga College/Conestoga/CPA/Programming Concepts/code/PROG1781_ProgrammingConcept/assignments/Assignment#1/code/assignment1Part2/assignment1Part2/bin/Debug/assignment1Part2.exe.config
+G:/OneDrive - Conestoga College/Conestoga/CPA/Programming Concepts/code/PROG1781_ProgrammingConcept/assignments/Assignment#1/code/assignment1Part2/assignment1Part2/bin/Debug/assignment1Part2.exe
+G:/OneDrive - Conestoga College/Conestoga/CPA/Programming Concepts/code/PROG1781_ProgrammingConcept/assignments/Assignment#1/code/assignment1Part2/assignment1Part2/bin/Debug/assignment1Part2.pdb
+G:/OneDrive - Conestoga College/Conestoga/CPA/Programming Concepts/code/PROG1781_ProgrammingConcept/assignments/Assignment#1/code/assignment1Part2/assignment1Part2/obj/Debug/assignment1Part2.csprojAssemblyReference.cache
+G:/OneDrive - Conestoga College/Conestoga/CPA/Programming Concepts/code/PROG1781_ProgrammingConcept/assignments/Assignment#1/code/assignment1Part2/assignment1Part2/obj/Debug/assignment1Part2.csproj.CoreCompileInputs.cache
+G:/OneDrive - Conestoga College/Conestoga/CPA/Programming Concepts/code/PROG1781_ProgrammingConcept/assignments/Assignment#1/code/assignment1Part2/assignment1Part2/obj/Debug/assignment1Part2.exe
+G:/OneDrive - Conestoga College/Conestoga/CPA/Programming Concepts/code/PROG1781_ProgrammingConcept/assignments/Assignment#1/code/assignment1Part2/assignment1Part2/obj/Debug/assignment1Part2.pdb
+/Users/sangbong/OneDrive/OneDrive - Conestoga College/Conestoga/CPA/Programming Concepts/code/PROG1781_ProgrammingConcept/assignments/Assignment#1/assignment1Part2/assignment1Part2/bin/Debug/assignment1Part2.exe.config
+/Users/sangbong/OneDrive/OneDrive - Conestoga College/Conestoga/CPA/Programming Concepts/code/PROG1781_ProgrammingConcept/assignments/Assignment#1/assignment1Part2/assignment1Part2/bin/Debug/assignment1Part2.exe
+/Users/sangbong/OneDrive/OneDrive - Conestoga College/Conestoga/CPA/Programming Concepts/code/PROG1781_ProgrammingConcept/assignments/Assignment#1/assignment1Part2/assignment1Part2/bin/Debug/assignment1Part2.pdb
+/Users/sangbong/OneDrive/OneDrive - Conestoga College/Conestoga/CPA/Programming Concepts/code/PROG1781_ProgrammingConcept/assignments/Assignment#1/assignment1Part2/assignment1Part2/obj/Debug/assignment1Part2.csprojAssemblyReference.cache
+/Users/sangbong/OneDrive/OneDrive - Conestoga College/Conestoga/CPA/Programming Concepts/code/PROG1781_ProgrammingConcept/assignments/Assignment#1/assignment1Part2/assignment1Part2/obj/Debug/assignment1Part2.csproj.CoreCompileInputs.cache
+/Users/sangbong/OneDrive/OneDrive - Conestoga College/Conestoga/CPA/Programming Concepts/code/PROG1781_ProgrammingConcept/assignments/Assignment#1/assignment1Part2/assignment1Part2/obj/Debug/assignment1Part2.exe
+/Users/sangbong/OneDrive/OneDrive - Conestoga College/Conestoga/CPA/Programming Concepts/code/PROG1781_ProgrammingConcept/assignments/Assignment#1/assignment1Part2/assignment1Part2/obj/Debug/assignment1Part2.pdb

@@ -1,0 +1,42 @@
+﻿/*
+ * Program ID : Assignments1Part2
+ * 
+ * Purpose : To do assignments part2
+ * 
+ * Revision History:
+ *		created Sept 2020 by S.Park
+ */
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace assignment1Part2
+{
+	class Program
+	{
+		static void Main(string[] args)
+		{
+			//Declare and Initialize Variables
+			float celiusFloat = 0;
+			float fahrenheitFloat = 0;
+
+			Console.WriteLine("A Student - Assignment 1 Part 2");
+
+			Console.Write("Please Enter Current Celius : ");
+
+			//Convert to fahrenheit
+			celiusFloat = float.Parse(System.Console.ReadLine());
+			fahrenheitFloat = (celiusFloat * 9 / 5) + 32;
+
+			Console.WriteLine("\nName : Sangbong Park");
+			Console.WriteLine("Celius : " + celiusFloat + " -> Fahrenheit : " + fahrenheitFloat);
+			Console.WriteLine("Experience : Low");
+			Console.WriteLine("Country : Canada");
+
+			Console.ReadLine();
+		}
+	}
+}
