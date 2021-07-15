@@ -1,0 +1,7 @@
+G:\OneDrive - Conestoga College\Conestoga\CPA\Programming Concepts\code\PROG1781_ProgrammingConcept\inClass\inClass2\inClass2\obj\Debug\inClass2.csprojAssemblyReference.cache
+G:\OneDrive - Conestoga College\Conestoga\CPA\Programming Concepts\code\PROG1781_ProgrammingConcept\inClass\inClass2\inClass2\obj\Debug\inClass2.csproj.CoreCompileInputs.cache
+G:\OneDrive - Conestoga College\Conestoga\CPA\Programming Concepts\code\PROG1781_ProgrammingConcept\inClass\inClass2\inClass2\bin\Debug\inClass2.exe.config
+G:\OneDrive - Conestoga College\Conestoga\CPA\Programming Concepts\code\PROG1781_ProgrammingConcept\inClass\inClass2\inClass2\bin\Debug\inClass2.exe
+G:\OneDrive - Conestoga College\Conestoga\CPA\Programming Concepts\code\PROG1781_ProgrammingConcept\inClass\inClass2\inClass2\bin\Debug\inClass2.pdb
+G:\OneDrive - Conestoga College\Conestoga\CPA\Programming Concepts\code\PROG1781_ProgrammingConcept\inClass\inClass2\inClass2\obj\Debug\inClass2.exe
+G:\OneDrive - Conestoga College\Conestoga\CPA\Programming Concepts\code\PROG1781_ProgrammingConcept\inClass\inClass2\inClass2\obj\Debug\inClass2.pdb
