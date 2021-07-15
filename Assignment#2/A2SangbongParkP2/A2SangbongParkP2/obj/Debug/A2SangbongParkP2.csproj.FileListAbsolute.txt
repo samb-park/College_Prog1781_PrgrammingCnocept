@@ -1,7 +1,0 @@
-C:\Users\sangbong\Desktop\PROG1781Section1\assignments\Assignment2\A2SangbongParkP2\A2SangbongParkP2\bin\Debug\A2SangbongParkP2.exe.config
-C:\Users\sangbong\Desktop\PROG1781Section1\assignments\Assignment2\A2SangbongParkP2\A2SangbongParkP2\bin\Debug\A2SangbongParkP2.exe
-C:\Users\sangbong\Desktop\PROG1781Section1\assignments\Assignment2\A2SangbongParkP2\A2SangbongParkP2\bin\Debug\A2SangbongParkP2.pdb
-C:\Users\sangbong\Desktop\PROG1781Section1\assignments\Assignment2\A2SangbongParkP2\A2SangbongParkP2\obj\Debug\A2SangbongParkP2.csprojAssemblyReference.cache
-C:\Users\sangbong\Desktop\PROG1781Section1\assignments\Assignment2\A2SangbongParkP2\A2SangbongParkP2\obj\Debug\A2SangbongParkP2.csproj.CoreCompileInputs.cache
-C:\Users\sangbong\Desktop\PROG1781Section1\assignments\Assignment2\A2SangbongParkP2\A2SangbongParkP2\obj\Debug\A2SangbongParkP2.exe
-C:\Users\sangbong\Desktop\PROG1781Section1\assignments\Assignment2\A2SangbongParkP2\A2SangbongParkP2\obj\Debug\A2SangbongParkP2.pdb
